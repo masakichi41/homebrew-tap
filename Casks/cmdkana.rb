@@ -6,8 +6,8 @@
 # tap 側を直接編集しないでください。詳しくは RELEASING.md を参照。
 # -------------------------------------------------------------------
 cask "cmdkana" do
-  version "1.0.0"
-  sha256 "2d758c5774103ef4c8a2a2c3c793f80a3e3d561dc1b358d7af68e93db399a823"
+  version "1.1.0"
+  sha256 "fe8e0719bdae50adac33f5707730c4b53a58e38e9317116a10d6750c47c3d2c7"
 
   url "https://github.com/masakichi41/CmdKana/releases/download/v#{version}/CmdKana-#{version}.dmg"
   name "CmdKana"
