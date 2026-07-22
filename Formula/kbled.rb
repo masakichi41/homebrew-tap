@@ -1,8 +1,8 @@
 class Kbled < Formula
   desc "Control the built-in keyboard CapsLock LED on macOS"
   homepage "https://github.com/masakichi41/kbled"
-  url "https://github.com/masakichi41/kbled/releases/download/v0.2.0/kbled-0.2.0.zip"
-  sha256 "8a24be62ca4e0a0827a657ea11befdbb08e81dcef93bc29bbf3ce8797ca5ce0e"
+  url "https://github.com/masakichi41/kbled/releases/download/v0.2.1/kbled-0.2.1.zip"
+  sha256 "d4eaad2444a84b4b294788092c6ddff421546e1f654b5882e3e6a7b5c77bf016"
   license "MIT"
 
   livecheck do
