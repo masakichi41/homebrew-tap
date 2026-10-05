@@ -1,8 +1,8 @@
 class EventkitCli < Formula
   desc "JSON-only CLI for Apple Reminders and Calendar, built for AI agents"
   homepage "https://github.com/masakichi41/eventkit-cli"
-  url "https://github.com/masakichi41/eventkit-cli/releases/download/v0.1.0/eventkit-cli-0.1.0.zip"
-  sha256 "c6e0ba1181fc0c0a4ad249f9265f1e3b34c2f6b261814ac02f9b465e52a3b10f"
+  url "https://github.com/masakichi41/eventkit-cli/releases/download/v0.2.0/eventkit-cli-0.2.0.zip"
+  sha256 "badf2c5539145951b7c4e2c13279ea8d40cf8fce6b2d8175af24a15687676d9d"
   license "MIT"
 
   depends_on macos: :ventura
